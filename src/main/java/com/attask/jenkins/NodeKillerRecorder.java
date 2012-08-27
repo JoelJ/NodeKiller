@@ -27,11 +27,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created with IntelliJ IDEA.
  * User: brianmondido
  * Date: 8/22/12
  * Time: 3:55 PM
- * To change this template use File | Settings | File Templates.
  */
 public class NodeKillerRecorder extends Recorder {
 
