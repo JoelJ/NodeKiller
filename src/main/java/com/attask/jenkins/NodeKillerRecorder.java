@@ -104,7 +104,7 @@ public class NodeKillerRecorder extends Recorder {
 
         @Override
         public String getDisplayName() {
-            return "Kill Node";
+            return "Auto kill Node on failure";
         }
     }
 }
